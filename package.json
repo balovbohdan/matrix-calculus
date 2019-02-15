@@ -36,7 +36,9 @@
   "keywords": [
     "matrix",
     "math",
-    "tensor"
+    "tensor",
+    "typescript",
+    "calculations"
   ],
   "license": "ISC",
   "main": "index.ts",
