@@ -13,8 +13,8 @@ npm i --save matrix-calculus
 import {Matrix, Data} from 'matrix-calculus';
 import {SingleColMatrixFactory} from 'matrix-calculus/factories';
 
-const valuesRaw = [2, 5, 3, 6, 2];
-const weightsRaw = [1.7364, .8255, .01672, 1.8354, .5948];
+const valuesRaw:number[] = [2, 5, 3, 6, 2];
+const weightsRaw:number[] = [1.7364, .8255, .01672, 1.8354, .5948];
 
 const values:Matrix = SingleColMatrixFactory.create(valuesRaw);
 const weights:Matrix = SingleColMatrixFactory.create(weightsRaw);
