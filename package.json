@@ -1,21 +1,48 @@
 {
-  "name": "matrix-calculus",
-  "version": "1.0.0",
-  "description": "TypeScript library to operate with matrix.",
-  "main": "index.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "matrix-calculus@^1.0.0",
+  "_id": "matrix-calculus@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-U9hb8IXrXehX7hRFxJaruIUxkdSWHjtdQVE0KaOkkyAtfCm7SfOhfQTckTmnl4QobBcoVsYRqn2hUvMXBwiCGg==",
+  "_location": "/matrix-calculus",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "matrix-calculus@^1.0.0",
+    "name": "matrix-calculus",
+    "escapedName": "matrix-calculus",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/matrix-calculus/-/matrix-calculus-1.0.0.tgz",
+  "_shasum": "89174383da44ec7e692bf812393e99f64a32708a",
+  "_spec": "matrix-calculus@^1.0.0",
+  "_where": "D:\\services\\hai\\server\\src",
+  "author": {
+    "name": "balov_bohdan"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Library to operate with matrix.",
+  "devDependencies": {
+    "@types/core-js": "^2.5.0",
+    "@types/node": "^10.11.4",
+    "tslint": "^5.11.0"
   },
   "keywords": [
     "matrix",
     "math",
     "tensor"
   ],
-  "devDependencies": {
-    "@types/core-js": "^2.5.0",
-    "@types/node": "^10.11.4",
-    "tslint": "^5.11.0"
+  "license": "ISC",
+  "main": "index.ts",
+  "name": "matrix-calculus",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "balov_bohdan",
-  "license": "ISC"
+  "version": "1.0.0"
 }

@@ -68,8 +68,8 @@ export class Matrix {
             .reduce((prev, cur) => prev + cur, 0);
     }
 
-    multiply(factor:Matrix|number):Matrix {
-        return Multiplicator.multiply(this, factor);
+    multiply(rightItem:Matrix|number):Matrix {
+        return Multiplicator.multiply(this, rightItem);
     }
 
     divideTermByTerm(divider:Matrix|number):Matrix {
