@@ -1,0 +1,21 @@
+{
+  "name": "matrix-calculus",
+  "version": "1.0.0",
+  "description": "TypeScript library to operate with matrix.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "matrix",
+    "math",
+    "tensor"
+  ],
+  "devDependencies": {
+    "@types/core-js": "^2.5.0",
+    "@types/node": "^10.11.4",
+    "tslint": "^5.11.0"
+  },
+  "author": "balov_bohdan",
+  "license": "ISC"
+}
