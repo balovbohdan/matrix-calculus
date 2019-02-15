@@ -40,7 +40,7 @@
     "typescript",
     "calculations"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "main": "index.ts",
   "name": "matrix-calculus",
   "scripts": {
