@@ -1,6 +1,6 @@
 import {Matrix, Data} from '../Matrix';
 
-export type Callback = (unit:number, row?:number, col?:number)=>number;
+export type Callback = (unit:number, row:number, col:number)=>number;
 
 export class Map {
     static map(matrix:Matrix, callback:Callback):Matrix {
