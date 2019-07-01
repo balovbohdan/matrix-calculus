@@ -1,4 +1,4 @@
-# About
+## About
 `matrix-calculus` is a TypeScript library created to perform common matrix calculations. At first realizations it was created for neural network engine called "Nika" (for game AI aims). The library is successfully working as part of the highloaded game AI service based on Node JS.
 
 All operations are immutable. So methods you are using to change matrix will return changed version of the matrix; base version will stay untouchable.
