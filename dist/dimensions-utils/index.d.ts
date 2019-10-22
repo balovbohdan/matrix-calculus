@@ -1,0 +1,1 @@
+export { SameDimensionsChecker } from './SameDimensionsChecker';
