@@ -48,7 +48,7 @@
   "scripts": {
     "compile": "tsc -p ."
   },
-  "version": "2.0.2",
+  "version": "2.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/balovbohdan/matrix-calculus"
