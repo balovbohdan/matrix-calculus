@@ -43,6 +43,7 @@
   ],
   "license": "MIT",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "name": "matrix-calculus",
   "scripts": {
     "compile": "tsc -p ."
