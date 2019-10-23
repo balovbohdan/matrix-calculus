@@ -46,7 +46,7 @@
   "types": "dist/index.d.ts",
   "name": "matrix-calculus",
   "scripts": {
-    "compile": "tsc -p ."
+    "build": "tsc -p ."
   },
   "version": "2.0.3",
   "repository": {
