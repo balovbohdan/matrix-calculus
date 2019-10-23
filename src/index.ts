@@ -1,5 +1,4 @@
-import * as factories from './factories';
-import * as calculators from './calculators';
+import * as matrixFactories from './factories';
 
-export { factories, calculators };
+export { matrixFactories };
 export { Data, Matrix } from './Matrix';
